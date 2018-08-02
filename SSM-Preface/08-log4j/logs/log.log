@@ -1,0 +1,5 @@
+2018-05-23 15:09:43  [ FATAL ]  [ method:com.nanhua.test.MyTest.main(MyTest.java:10) ]  fatal message
+2018-05-23 15:09:43  [ ERROR ]  [ method:com.nanhua.test.MyTest.main(MyTest.java:11) ]  error message
+2018-05-23 15:09:43  [ WARN ]  [ method:com.nanhua.test.MyTest.main(MyTest.java:12) ]  warn message
+2018-05-23 15:09:43  [ INFO ]  [ method:com.nanhua.test.MyTest.main(MyTest.java:13) ]  info message
+2018-05-23 15:09:43  [ DEBUG ]  [ method:com.nanhua.test.MyTest.main(MyTest.java:14) ]  debug message
